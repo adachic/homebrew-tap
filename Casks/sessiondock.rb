@@ -1,6 +1,6 @@
 cask "sessiondock" do
   version "0.1.0"
-  sha256 "228dcbb2f80aebedc7009965ef0da73a2d1dc31f943768d0acccd776af0b4762"
+  sha256 "d42043fd82bd47a7c9ff6c027876ab8d0fa0ed0074230e5c361be1760c36a6b5"
 
   url "https://github.com/adachic/sessiondock/releases/download/v#{version}/SessionDock_#{version}_aarch64.dmg"
   name "SessionDock"
